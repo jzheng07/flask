@@ -10,7 +10,7 @@ $ pip install Flask
 
 #5 select New Project to create new flask project
 
-#6 create a file called hello.py with the code in app.py 
+#6 create a file called hello.py with the content in attached file  
 
 #7 on command line run the fllowing code
 
