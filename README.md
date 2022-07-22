@@ -1,23 +1,22 @@
-install python 
+#1 install python 
 
-install pycharm
+#2 install pycharm
 
-on command line run the fllowing code
+#3 on command line run the fllowing code
 
 $ pip install Flask 
 
-open pycharm and click File
+#4 open pycharm and click File
 
-select New Project to create new flask project
+#5 select New Project to create new flask project
 
-create a file called hello.py with the code in app.py 
+#6 create a file called hello.py with the code in app.py 
 
-on command line run the fllowing code
+#7 on command line run the fllowing code
 
 $ export FLASK_APP=hello
 
 $ flask run
 
-* Running on http://127.0.0.1:5000/
 
-go to in your browser you should see a Hello, World!.
+#8 go to in your browser you should see a Hello, World!.
